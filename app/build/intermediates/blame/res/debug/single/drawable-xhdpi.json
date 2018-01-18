@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_delete.png",
+        "source": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/src/main/res/drawable-xhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_uncheck_menu.png",
+        "source": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/src/main/res/drawable-xhdpi/ic_uncheck_menu.png"
+    },
+    {
+        "merged": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_email.png",
+        "source": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/src/main/res/drawable-xhdpi/ic_email.png"
+    },
+    {
+        "merged": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_search_menu.png",
+        "source": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/src/main/res/drawable-xhdpi/ic_search_menu.png"
+    },
+    {
+        "merged": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_check.png",
+        "source": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/src/main/res/drawable-xhdpi/ic_check.png"
+    },
+    {
+        "merged": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_menu_add.png",
+        "source": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/src/main/res/drawable-xhdpi/ic_menu_add.png"
+    }
+]

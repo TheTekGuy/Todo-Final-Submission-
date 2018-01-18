@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_delete_web.png",
+        "source": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/src/main/res/mipmap-xhdpi/ic_delete_web.png"
+    },
+    {
+        "merged": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_menu_delete.png",
+        "source": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/src/main/res/mipmap-xhdpi/ic_menu_delete.png"
+    },
+    {
+        "merged": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_delete.png",
+        "source": "/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/src/main/res/mipmap-xhdpi/ic_delete.png"
+    }
+]

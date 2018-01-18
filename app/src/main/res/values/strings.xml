@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="todo_title">Todo title</string>
+    <string name="todo_title_hint">Todo title hint</string>
+    <string name="todo_title_label">Todo Title</string>
+    <string name="todo_detail_label">Details of Todo</string>
+    <string name="todo_complete_label">Completed?</string>
+    <string name="todo_date">Date</string>
+    <string name="new_todo">Add Todo</string>
+    <string name="delete_todo">Delete Todo Item</string>
+    <string name="check_menu">Completed</string>
+    <string name="uncheck_menu">Not Completed</string>
+    <string name="todo_text_detail">Todo Detail</string>
+    <string name="status">Status</string>
+    <string name="search_menu">Search</string>
+    <string name="email_menu">Email Todo Item</string>
+
+
+</resources>

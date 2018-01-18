@@ -1,0 +1,7 @@
+#Thu Jan 18 20:11:42 GMT 2018
+base.0=/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7b242f42337147b570a38d1e82bf25dae672f2e2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dfa7e9a898b8711624020d538fafd7708aaa0c76/classes.dex
+base.1=/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dfa7e9a898b8711624020d538fafd7708aaa0c76
+file.0=/Users/UsmanHussain/Desktop/University/Mobile Application Development/Lab4/BooksApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7b242f42337147b570a38d1e82bf25dae672f2e2/classes.dex
